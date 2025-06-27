@@ -1,5 +1,5 @@
 # FII-NX1Intl-Jana-Mohamed
-# CleanWaterAI — Water Potability Classifier
+# CleanWaterAI — Water Potability Classifier 💧
 
 ## Overview
 
